@@ -1,0 +1,141 @@
+{
+ "name": "flare",
+ "color": "#66CDAA", 
+ "prop": "change the color of the largest circle -- outer one",
+ "children": [
+
+
+
+  {
+   "name": "Floods",
+   "color": "blue",  
+   "prop": "change the color of the outer line -- each circle has two lines -- outerline",
+  
+   "children": [
+    {
+     "name": "cluster",
+      
+     "children": [
+      {"name": "Floods", "size": 3938, "color": "blue", "prop": "change the color of the circle -- inner -- fills everything"}  
+     ]
+    }
+   ]
+  },
+
+
+
+  {
+   "name": "Shootings",
+   "color": "green",
+  
+   "children": [
+    {
+     "name": "cluster",
+      
+     "children": [
+      {"name": "shooting", "size": 9938}
+     ]
+    }
+   ]
+  },
+
+
+  {
+   "name": "Flu",
+   "color": "orange",
+  
+   "children": [
+    {
+     "name": "cluster",
+      
+     "children": [
+      {"name": "Flu", "size": 938}
+     ]
+    }
+   ]
+  },
+
+  {
+   "name": "Hurricane",
+   "color": "teal",
+   
+   "children": [
+    {
+     "name": "cluster",
+     
+     "children": [
+      {"name": "Harvey", "size": 2938}
+     ]
+    }
+   ]
+  },
+
+  {
+   "name": "5 Presidents",
+   "color": "purple",
+   
+   "children": [
+    {
+     "name": "cluster",
+     
+     "children": [
+      {"name": "Presidents", "size": 9938}
+     ]
+    }
+   ]
+  },
+
+  {
+   "name": "Concert",
+   "color": "yellow",
+   
+   "children": [
+    {
+     "name": "cluster",
+     
+     "children": [
+      {"name": "Hurricane Concert", "size": 10938}
+     ]
+    }
+   ]
+  },
+
+
+  {
+   "name": "Aggies vs Longhorns",
+   "color": "lime",
+   
+   "children": [
+    {
+     "name": "cluster",
+     
+     "children": [
+      {"name": "Aggies Win!", "size": 1938}
+     ]
+    }
+   ]
+  },
+
+
+  {
+   "name": "Rain",
+   "color": "red",
+   
+   "children": [
+    {
+     "name": "Humidity",
+     
+     "children": [
+      {"name": "shooting", "size": 6938}
+     ]
+    }
+   ]
+  }
+
+
+
+
+
+
+ ]
+}

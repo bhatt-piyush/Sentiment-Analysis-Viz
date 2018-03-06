@@ -1,0 +1,27 @@
+<% include partials/header %>
+ <div class="container">
+     <header class="jumbotron">
+         <div class="container">
+             <h1>Welcome to the patients page!</h1>
+             <p>We help you connect better!</p>
+             <p>
+                <a class="btn btn-primary btn-large" href="/patients/new">Add a new patient</a>
+             </p>
+         </div>
+     </header>
+     
+     <div class="row text-center" style="display:flex; flex-wrap: wrap;">
+        <% patients.forEach(function(patient){ %>
+            <div class="col-md-3 col-sm-6">
+                <div class="thumbnail">
+                   <img src="<%= patient.image %>">
+                   <div class="caption">
+                       <h4><%= patient.name %></h4>
+                   </div>
+                </div>
+            </div>
+        <% }); %>
+    </div>
+</div>
+
+<% include partials/footer %>
