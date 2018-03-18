@@ -15,7 +15,7 @@
      "name": "cluster",
       
      "children": [
-      {"name": "Floods", "size": 3938}  
+      {"name": "Floods", "size": 3800}  
      ]
     }
    ]
@@ -30,7 +30,7 @@
      "name": "cluster",
       
      "children": [
-      {"name": "Negative: 89%", "size": 9938}
+      {"name": "shooting", "size": 5000}
      ]
     }
    ]
@@ -44,7 +44,7 @@
      "name": "cluster",
       
      "children": [
-      {"name": "Flu", "size": 938}
+      {"name": "Flu", "size": 1938}
      ]
     }
    ]
@@ -57,7 +57,7 @@
      "name": "cluster",
      
      "children": [
-      {"name": "Harvey", "size": 2938}
+      {"name": "Harvey", "size": 2500}
      ]
     }
    ]
@@ -70,20 +70,20 @@
      "name": "cluster",
      
      "children": [
-      {"name": "Presidents", "size": 9938}
+      {"name": "Presidents", "size": 5000}
      ]
     }
    ]
   },
 
   {
-   "name": "Hurricane Concert",
+   "name": "Concert",
    "children": [
     {
      "name": "cluster",
      
      "children": [
-      {"name": "Positive: 95%", "size": 10938}
+      {"name": "Hurricane Concert", "size": 3399}
      ]
     }
    ]
@@ -97,7 +97,7 @@
      "name": "cluster",
      
      "children": [
-      {"name": "Aggies Win!", "size": 1938}
+      {"name": "Aggies Win!", "size": 8538}
      ]
     }
    ]
@@ -111,11 +111,79 @@
      "name": "Humidity",
      
      "children": [
-      {"name": "shooting", "size": 6938}
+      {"name": "shooting", "size": 738}
+     ]
+    }
+   ]
+  },
+  
+   {
+   "name": "iPhone",
+   "children": [
+    {
+     "name": "Humidity",
+     
+     "children": [
+      {"name": "shooting", "size": 138}
+     ]
+    }
+   ]
+  },
+  
+  
+   {
+   "name": "Oscars",
+   "children": [
+    {
+     "name": "Humidity",
+     
+     "children": [
+      {"name": "shooting", "size": 458}
+     ]
+    }
+   ]
+  },
+  
+   {
+   "name": "Breaking Bad",
+   "children": [
+    {
+     "name": "Humidity",
+     
+     "children": [
+      {"name": "shooting", "size": 2098}
+     ]
+    }
+   ]
+  },
+  
+   {
+   "name": "Blue",
+   "children": [
+    {
+     "name": "Humidity",
+     
+     "children": [
+      {"name": "shooting", "size": 987}
+     ]
+    }
+   ]
+  },
+  
+   {
+   "name": "Mexico",
+   "children": [
+    {
+     "name": "Humidity",
+     
+     "children": [
+      {"name": "shooting", "size": 1038}
      ]
     }
    ]
   }
+  
+  
 
 
 

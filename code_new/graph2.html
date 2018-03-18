@@ -3,9 +3,10 @@
 <head>
 	<meta charset="utf-8">
   	<script src="https://d3js.org/d3.v4.min.js" charset="utf-8"></script>
+  	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
     <style>
     body {
-      margin: 50px;
+      margin: 0px;
     }
     .node {
       cursor: pointer;
@@ -23,26 +24,65 @@
     .label {
       font: 11px "Helvetica Neue", Helvetica, Arial, sans-serif;
       text-anchor: middle;
-      text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, -1px 0 0 #fff, 0 -1px 0 #fff;
+      /*text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, -1px 0 0 #fff, 0 -1px 0 #fff;*/
+    }
+    
+    .label2 {
+      font: 11px "Helvetica Neue", Helvetica, Arial, sans-serif;
+      text-anchor: middle;
+      /*text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, -1px 0 0 #fff, 0 -1px 0 #fff;*/
     }
     
     .label,
+    .label2,
     .node--root,
     .node--leaf {
      pointer-events: none;
     }
+    
+    .i-am-centered { margin: auto; max-width: 300px;}
+    
+    #parent {
+    text-align:center;
+    }
     </style>
  </head> 
+ 
+ 
 <body>
 
-<svg width="480" height="480" style="background: white;"></svg>
+  <nav class="navbar navbar-inverse bg-inverse">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <a class="navbar-brand" style="color: #ffffff;" href="/">News: A friend or foe</a>
+            </div>
+            <div class="collapse navbar-collapse">
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a style="color: #ffffff;" href="/">Home</a></li>
+                    <li><a style="color: #ffffff;" href="/">About</a></li>
+                 
+            </div>
+        </div>
+    </nav>
+
+  
+<div class="row" id="parent">
+    <div class="col-md-6">
+      <svg id= "svg1" width="580" height="580" style="background: white;"></svg>
+      <h1>NEWS</h1>
+    </div>
+    <div class="col-md-6">
+      <svg id="svg2" width="580" height="580" style="background: white;"></svg>
+      <h1>PUBLIC</h1>
+    </div>
+</div>
 
 
 <div id="my-visualisation">
 
 <script type="text/javascript">
 
-                var svg = d3.select("svg"),
+                var svg = d3.select("#svg1"),
                     margin = 20,
                     diameter = +svg.attr("width"),
                     g = svg.append("g").attr("transform", "translate(" + diameter / 2 + "," + diameter / 2 + ")");
@@ -73,7 +113,7 @@
                       .attr("class", function(d) { return d.parent ? d.children ? "node" : "node node--leaf" : "node node--root"; })
                       .style("fill", function(d,i) { 
                       	console.log(d.data.name);
-                      	return d.data.color; })
+                      	return d.data.color ? d.data.color : "ff99bb"; })
                       .on("click", function(d) { if (focus !== d) zoom(d), d3.event.stopPropagation(); });
                 
                   var text = g.selectAll("text")
@@ -116,8 +156,87 @@
                     circle.attr("r", function(d) { return d.r * k; });
                   }
                 });
+
+                
+///////////////////////////////////////////////////////SVG2///////////////////////////////////////////////////////////////                
+// ------------------------------------------------------------------------------------------------
+                var svg2 = d3.select("#svg2"),
+                    margin2 = 20,
+                    diameter2 = +svg2.attr("width"),
+                    g2 = svg2.append("g").attr("transform", "translate(" + diameter2 / 2 + "," + diameter2 / 2 + ")");
+                
+                var color2 = d3.scaleLinear()
+                    .domain([-1, 5])
+                    .range(["hsl(200,80%,80%)", "hsl(128,30%,90%)"])
+                    .interpolate(d3.interpolateHcl);
+                
+                var pack2 = d3.pack()
+                    .size([diameter2 - margin2, diameter2 - margin2])
+                    .padding(2);
+                
+                d3.json("flare2.json", function(error, root2) {
+                  if (error) throw error;
+                
+                  root2 = d3.hierarchy(root2)
+                      .sum(function(d) { return d.size; })
+                      .sort(function(a, b) { return b.value - a.value; });
+                
+                  var focus2 = root2,
+                      nodes2 = pack(root2).descendants(),
+                      view;
+                
+                  var circle2 = g2.selectAll("circle")
+                    .data(nodes2)
+                    .enter().append("circle")
+                      .attr("class", function(d) { return d.parent ? d.children ? "node" : "node node--leaf" : "node node--root"; })
+                      .style("fill", function(d,i) { 
+                      	console.log(d.data.name);
+                      		return d.data.color ? d.data.color : "#ddccff "; })
+                      .on("click", function(d) { if (focus !== d) zoom(d), d3.event.stopPropagation(); });
+                
+                  var text2 = g2.selectAll("text")
+                    .data(nodes2)
+                    .enter().append("text")
+                      .attr("class", "label2")
+                      .style("fill-opacity", function(d) { return d.parent === root2 ? 1 : 0; })
+                      .style("display", function(d) { return d.parent === root2 ? "inline" : "none"; })
+                      .style("font-size", function(d){ return d.parent === root2 ? "12px" : "24px";})
+                 	      .text(function(d) { return d.data.name; });
+                
+                  var node2 = g2.selectAll("circle,text");
+                
+                  svg2
+                      .style("background", "#ffffff ") // change color of the square
+                      .on("click", function() { zoom(root2); });
+                
+                  zoomTo([root2.x, root2.y, root2.r * 2 + margin2]);
+                
+                  function zoom(d) {
+                    var focus1 = focus; focus = d;
+                
+                    var transition2 = d3.transition()
+                        .duration(d3.event.altKey ? 7500 : 750)
+                        .tween("zoom", function(d) {
+                          var i = d3.interpolateZoom(view, [focus.x, focus.y, focus.r * 2 + margin2]);
+                          return function(t) { zoomTo(i(t)); };
+                        });
+                
+                    transition2.selectAll("text")
+                      .filter(function(d) { return d.parent === focus || this.style.display === "inline"; })
+                        .style("fill-opacity", function(d) { return d.parent === focus ? 1 : 0; })
+                        .on("start", function(d) { if (d.parent === focus) this.style.display = "inline"; })
+                        .on("end", function(d) { if (d.parent !== focus) this.style.display = "none"; });
+                  }
+                
+                  function zoomTo(v) {
+                    var k = diameter2 / v[2]; view = v;
+                    node2.attr("transform", function(d) { return "translate(" + (d.x - v[0]) * k + "," + (d.y - v[1]) * k + ")"; });
+                    circle2.attr("r", function(d) { return d.r * k; });
+                  }
+                });
 </script>
 </div>
+
 
 </body>  
 </html> 
