@@ -1,5 +1,3 @@
-[nltk_data] Downloading package stopwords to /home/piyush/nltk_data...
-[nltk_data]   Package stopwords is already up-to-date!
 output.csv
 Selecting 179 files from data/twitter...
 -----------------
@@ -20,66 +18,66 @@ Topic 12: time, dmnopinion, worth, mckinney, cross
 Topic 13: dallasnews, missing, jones, crashes, business
 Topic 14: amp, shooting, hurns, rangers, fans
 Topic 15: dez, season, women, hopes, far
-RT @tombenning: Channeling his inner Fred Astaire: 6 times George W. Bush boogied https://t.co/VR3uxyjgbC https://t.co/4nBlZ2N93T (Topic no: 12) <Sentiment: neutral>
-Texas Democrats call on Ken Paxton to investigate Cambridge Analytica https://t.co/tMXup0mB8e (Topic no: 0) <Sentiment: neutral>
-DWI suspect crashes into Carrollton house  narrowly missing sleeping children https://t.co/V0znkYFZo4 (Topic no: 0) <Sentiment: negative>
-#ICYMI Stormy Daniels let loose in  of all places  Terrell  Texas after her highly-anticipated '60 Minutes' intervi… https://t.co/xmFGclifRX (Topic no: 0) <Sentiment: positive>
-RT @michaelflorek: Trinity Christian - Addison hires Pro Football Hall of Famer Mike Singletary as head coach https://t.co/octewFMRc3 (Topic no: 0) <Sentiment: neutral>
-The song MLK requested minutes before his assassination comforted millions | @DMNOpinion https://t.co/vPXQXhl8fr (Topic no: 0) <Sentiment: neutral>
-The Mormon church in McKinney where children were sexually assaulted for years has said in a statement:  "Children… https://t.co/1K2YMjbPEd (Topic no: 0) <Sentiment: positive>
-Tarrant County will get its first Alamo Drafthouse in 2019. Who's excited?! https://t.co/ww5GTQUnP9 (Topic no: 7) <Sentiment: positive>
-Wes Anderson made an animated film about dogs? Oh yes  and it's so typical of his style. Squint a little and the ma… https://t.co/opmQisRIGC (Topic no: 0) <Sentiment: negative>
-Gov. Greg Abbott has 'historic' meeting with Indian prime minister https://t.co/F4C0neuZr2 (Topic no: 0) <Sentiment: neutral>
-Easter brunch without having to wash a sink full of dishes? Yes  please! Most restaurants require a reservation for… https://t.co/DIEaNeGNkJ (Topic no: 0) <Sentiment: positive>
-🏫 @DallasSchools steps up as Texas kicks far too many of its youngest kids out of class | @DMNOpinion https://t.co/hM54cHlKqH (Topic no: 0) <Sentiment: positive>
-No word yet on if the "I love tacos so much" graffiti will stay. Now seems like a good time to snap a pic. https://t.co/VWzLrHSDrd (Topic no: 0) <Sentiment: positive>
-Murder suspect arrested in deadly double shooting at Red Bird motel https://t.co/km9YBpU7LH (Topic no: 5) <Sentiment: neutral>
-RT @medenix: Should Lillian Salerno lose the love and go negative in her congressional race against Colin Allred? https://t.co/pcmwtpOkRr (Topic no: 0) <Sentiment: positive>
-A top Texas butcher shares how to make proper #beefjerky at home https://t.co/wlSoNbrkEW #jerky #jerkylove (Topic no: 0) <Sentiment: positive>
-Federal agents arrested 89 people  including more than two dozen in North Texas  in an operation that targeted unau… https://t.co/eS6FShvh4C (Topic no: 0) <Sentiment: positive>
-A false alarm over a gas leak triggerred an evacuation at Travis Middle School in Irving https://t.co/2neTDuQbKp (Topic no: 0) <Sentiment: negative>
-📺👀 Check out aviation writer @Conor_Shine as he discusses this story on @NBCDFW in a few moments and its impact on… https://t.co/pa00RgqiQ9 (Topic no: 0) <Sentiment: negative>
-Keys to making Dallas a more inclusive city? Don't forget Southern hospitality and barbecue. #DallasIdeas18 https://t.co/UhLfl6t3gi (Topic no: 0) <Sentiment: positive>
-MISSING: Elderly man with one shoe last seen in South Dallas may be a danger to himself https://t.co/XUTrmVM0BN (Topic no: 0) <Sentiment: negative>
-Let it be known: All jelly beans are not created equal. The @GuideLive staff ate their way through several brands s… https://t.co/sA2LqFw5vA (Topic no: 0) <Sentiment: neutral>
-RT @SportsDayDFW: 🚨 Our Rangers newsletter is back! (with a new name) 🚨  Make sure you're signed up before our special season opener editio… (Topic no: 0) <Sentiment: positive>
-A San Antonio father has been arrested after police said he fatally shot his 14-year-old son in bed https://t.co/bikL3lIa4D (Topic no: 2) <Sentiment: positive>
-Another big Texas ranch has hit the market - this one southeast of Dallas https://t.co/r2oGOmsqqB (Topic no: 13) <Sentiment: neutral>
-The Texas inmate known as the "suitcase killer" was executed Tuesday  after his attorneys had made a last-ditch app… https://t.co/kkORERTUXF (Topic no: 0) <Sentiment: neutral>
-@Plano_Schools to bring school resource officers back to its middle schools https://t.co/aqzgGM3KMo | @vlwigg (Topic no: 14) <Sentiment: neutral>
-Did you catch the revival of #Roseanne last night? https://t.co/Wy202pXtge (Topic no: 13) <Sentiment: neutral>
-We must resurrect the true  radical legacy of Martin Luther King | @DMNOpinion https://t.co/Tdu3Cj6uqK (Topic no: 0) <Sentiment: positive>
-Sabre CEO says layoffs were tough  but necessary to get the tech firm focused on future https://t.co/58ibQcvZJa (Topic no: 7) <Sentiment: negative>
-After appearing in a television interview viewed by millions  Stormy Daniels spent her Monday night at a much more… https://t.co/WuFHvG1Hco (Topic no: 0) <Sentiment: positive>
-Update: Lockdown lifted after police found no credible threat to the campus https://t.co/WWwk7JaG1U (Topic no: 9) <Sentiment: negative>
-Dallas oil producer's $8 billion sale price could spark Permian Basin 'arms race' https://t.co/xtB85DQlC3 #stocks (Topic no: 3) <Sentiment: neutral>
-Think Rangers should add more free agent pieces (like a closer)? Adrian Beltre's right there with you.… https://t.co/mTzkvCPUfs (Topic no: 15) <Sentiment: positive>
-After having fired Scott Cross  pressure on the next UTA basketball coach is already building | @ChuckCarltonDMN https://t.co/YvRNOh7lt7 (Topic no: 0) <Sentiment: neutral>
-RT @claireballor: Arlington HS is on lockdown after a suspicious person was reported in the area. Police siad there is no threat inside the… (Topic no: 0) <Sentiment: neutral>
-@DallasPD searching for missing 33-year-old man last seen in Garland  believed to be a danger to himself  others  https://t.co/Wr0AYBrEN4 (Topic no: 0) <Sentiment: negative>
-Horse meat ban praised by animal activists  but it’s only temporary   https://t.co/PzPCMvk07s | @nicolecobler (Topic no: 8) <Sentiment: neutral>
-Protests of Stephon Clark shooting hit home for several Mavs: "These stories can't become a regular thing." |… https://t.co/IWPDgKl9NQ (Topic no: 5) <Sentiment: neutral>
-New #Cowboys WR Allen Hurns (@A1hurns) switched his jersey number to honor Florida school shooting victims. https://t.co/irwQXMDlj8 (Topic no: 0) <Sentiment: positive>
-We need to talk.  Jerry Jones hopes to meet with Dez Bryant before end of next week. #Cowboys | @DavidMooreDMN https://t.co/DrY0kqICDO (Topic no: 0) <Sentiment: neutral>
-Security guard killed at Holiday Inn in Lake Highlands  https://t.co/Tkl2IVCUdn (Topic no: 3) <Sentiment: negative>
-Whatever your mom used to put in the bottom of your Easter basket  that consumer choice is now a lot more complicat… https://t.co/414PvxrpzL (Topic no: 0) <Sentiment: positive>
-Martin Luther King is alive today at the corner of MLK and Malcolm X in southern Dallas | @DMNopinion https://t.co/zKfdD0Ed7P (Topic no: 0) <Sentiment: positive>
-RT @ESefko: Mavericks react to protest in Sacramento and a strange scene with precious few fans in the building. https://t.co/NYB0s1orRz (Topic no: 0) <Sentiment: positive>
-Find urban art  food and brews in Denver's RiNo neighborhood  https://t.co/abvOFyzwCy (Topic no: 0) <Sentiment: neutral>
-How to make ma'amoul  an ancient Easter cookie from the Arab world https://t.co/RVUCc1wao5 (Topic no: 15) <Sentiment: neutral>
-Watch: Police seeking Dallas package thief caught on video https://t.co/0BpwuHM3k2 (Topic no: 0) <Sentiment: neutral>
-Dallas County narrowly passes $83M deal to sell old Parkland Hospital  https://t.co/5KIOC2hmKm (Topic no: 0) <Sentiment: negative>
-RT @clairezcardona: Reward offered in slaying of 19-year-old shot while driving in Far East Dallas https://t.co/9H0Nw27KHx (Topic no: 0) <Sentiment: positive>
-.@ESefko's top six NBA draft prospects  and how he says Dirk has continued to impress.   #MFFL https://t.co/Vb3jhAVwNn (Topic no: 13) <Sentiment: positive>
-Far Cry 5 could have make a lot of timely cultural statements with its story about a cult uprising in rural Montana… https://t.co/tRxFTsjnZg (Topic no: 6) <Sentiment: positive>
-Reward offered in slaying of 19-year-old shot while driving in Far East Dallas https://t.co/f1j9wBjEja (Topic no: 0) <Sentiment: positive>
-Whether you prefer beer  wine or spirits  Dallas-Fort Worth has plenty of options to satisfy your thirst. https://t.co/nOSyAKbmH0 (Topic no: 0) <Sentiment: positive>
-Wrangler-wearing superstar George Strait defies show business stereotypes. That's part of what fans love most. https://t.co/vgkaonCbAp (Topic no: 1) <Sentiment: positive>
-'NXIVM' leader accused of keeping women slaves as part of cult appears in Texas court on sex trafficking charges https://t.co/oCEk9oz3Ui (Topic no: 0) <Sentiment: neutral>
-Breathless is billed as "Buffy the Vampire Slayer but the villains are big pharma" https://t.co/D4OHU9ORKv (Topic no: 11) <Sentiment: neutral>
-Update at 9:50 pm: Trenton Carroll has been found and is safe  police said. https://t.co/NgqdvUnobM (Topic no: 0) <Sentiment: positive>
-Update at 9:50 pm: Trenton Carroll has been found and is safe  police said. (Topic no: 0) <Sentiment: positive>
-For a stress-free Easter feast  skip the kitchen and dine out instead.  https://t.co/0vrQC5sjOu (Topic no: 0) <Sentiment: positive>
+RT @tombenning: Channeling his inner Fred Astaire: 6 times George W. Bush boogied https://t.co/VR3uxyjgbC https://t.co/4nBlZ2N93T (Topic no: 12) <Sentiment: 0.0>
+Texas Democrats call on Ken Paxton to investigate Cambridge Analytica https://t.co/tMXup0mB8e (Topic no: 0) <Sentiment: 0.0>
+DWI suspect crashes into Carrollton house  narrowly missing sleeping children https://t.co/V0znkYFZo4 (Topic no: 0) <Sentiment: -0.2>
+#ICYMI Stormy Daniels let loose in  of all places  Terrell  Texas after her highly-anticipated '60 Minutes' intervi… https://t.co/xmFGclifRX (Topic no: 0) <Sentiment: 0.04153846153846154>
+RT @michaelflorek: Trinity Christian - Addison hires Pro Football Hall of Famer Mike Singletary as head coach https://t.co/octewFMRc3 (Topic no: 0) <Sentiment: 0.0>
+The song MLK requested minutes before his assassination comforted millions | @DMNOpinion https://t.co/vPXQXhl8fr (Topic no: 0) <Sentiment: 0.0>
+The Mormon church in McKinney where children were sexually assaulted for years has said in a statement:  "Children… https://t.co/1K2YMjbPEd (Topic no: 0) <Sentiment: 0.5>
+Tarrant County will get its first Alamo Drafthouse in 2019. Who's excited?! https://t.co/ww5GTQUnP9 (Topic no: 7) <Sentiment: 0.3125>
+Wes Anderson made an animated film about dogs? Oh yes  and it's so typical of his style. Squint a little and the ma… https://t.co/opmQisRIGC (Topic no: 0) <Sentiment: -0.17708333333333331>
+Gov. Greg Abbott has 'historic' meeting with Indian prime minister https://t.co/F4C0neuZr2 (Topic no: 0) <Sentiment: 0.0>
+Easter brunch without having to wash a sink full of dishes? Yes  please! Most restaurants require a reservation for… https://t.co/DIEaNeGNkJ (Topic no: 0) <Sentiment: 0.425>
+🏫 @DallasSchools steps up as Texas kicks far too many of its youngest kids out of class | @DMNOpinion https://t.co/hM54cHlKqH (Topic no: 0) <Sentiment: 0.3>
+No word yet on if the "I love tacos so much" graffiti will stay. Now seems like a good time to snap a pic. https://t.co/VWzLrHSDrd (Topic no: 0) <Sentiment: 0.4666666666666666>
+Murder suspect arrested in deadly double shooting at Red Bird motel https://t.co/km9YBpU7LH (Topic no: 5) <Sentiment: 0.0>
+RT @medenix: Should Lillian Salerno lose the love and go negative in her congressional race against Colin Allred? https://t.co/pcmwtpOkRr (Topic no: 0) <Sentiment: 0.1>
+A top Texas butcher shares how to make proper #beefjerky at home https://t.co/wlSoNbrkEW #jerky #jerkylove (Topic no: 0) <Sentiment: 0.25>
+Federal agents arrested 89 people  including more than two dozen in North Texas  in an operation that targeted unau… https://t.co/eS6FShvh4C (Topic no: 0) <Sentiment: 0.5>
+A false alarm over a gas leak triggerred an evacuation at Travis Middle School in Irving https://t.co/2neTDuQbKp (Topic no: 0) <Sentiment: -0.20000000000000004>
+📺👀 Check out aviation writer @Conor_Shine as he discusses this story on @NBCDFW in a few moments and its impact on… https://t.co/pa00RgqiQ9 (Topic no: 0) <Sentiment: -0.2>
+Keys to making Dallas a more inclusive city? Don't forget Southern hospitality and barbecue. #DallasIdeas18 https://t.co/UhLfl6t3gi (Topic no: 0) <Sentiment: 0.25>
+MISSING: Elderly man with one shoe last seen in South Dallas may be a danger to himself https://t.co/XUTrmVM0BN (Topic no: 0) <Sentiment: -0.1>
+Let it be known: All jelly beans are not created equal. The @GuideLive staff ate their way through several brands s… https://t.co/sA2LqFw5vA (Topic no: 0) <Sentiment: 0.0>
+RT @SportsDayDFW: 🚨 Our Rangers newsletter is back! (with a new name) 🚨  Make sure you're signed up before our special season opener editio… (Topic no: 0) <Sentiment: 0.24837662337662336>
+A San Antonio father has been arrested after police said he fatally shot his 14-year-old son in bed https://t.co/bikL3lIa4D (Topic no: 2) <Sentiment: 0.1>
+Another big Texas ranch has hit the market - this one southeast of Dallas https://t.co/r2oGOmsqqB (Topic no: 13) <Sentiment: 0.0>
+The Texas inmate known as the "suitcase killer" was executed Tuesday  after his attorneys had made a last-ditch app… https://t.co/kkORERTUXF (Topic no: 0) <Sentiment: 0.0>
+@Plano_Schools to bring school resource officers back to its middle schools https://t.co/aqzgGM3KMo | @vlwigg (Topic no: 14) <Sentiment: 0.0>
+Did you catch the revival of #Roseanne last night? https://t.co/Wy202pXtge (Topic no: 13) <Sentiment: 0.0>
+We must resurrect the true  radical legacy of Martin Luther King | @DMNOpinion https://t.co/Tdu3Cj6uqK (Topic no: 0) <Sentiment: 0.35>
+Sabre CEO says layoffs were tough  but necessary to get the tech firm focused on future https://t.co/58ibQcvZJa (Topic no: 7) <Sentiment: -0.14722222222222223>
+After appearing in a television interview viewed by millions  Stormy Daniels spent her Monday night at a much more… https://t.co/WuFHvG1Hco (Topic no: 0) <Sentiment: 0.2>
+Update: Lockdown lifted after police found no credible threat to the campus https://t.co/WWwk7JaG1U (Topic no: 9) <Sentiment: -0.2>
+Dallas oil producer's $8 billion sale price could spark Permian Basin 'arms race' https://t.co/xtB85DQlC3 #stocks (Topic no: 3) <Sentiment: 0.0>
+Think Rangers should add more free agent pieces (like a closer)? Adrian Beltre's right there with you.… https://t.co/mTzkvCPUfs (Topic no: 15) <Sentiment: 0.3952380952380952>
+After having fired Scott Cross  pressure on the next UTA basketball coach is already building | @ChuckCarltonDMN https://t.co/YvRNOh7lt7 (Topic no: 0) <Sentiment: 0.0>
+RT @claireballor: Arlington HS is on lockdown after a suspicious person was reported in the area. Police siad there is no threat inside the… (Topic no: 0) <Sentiment: 0.0>
+@DallasPD searching for missing 33-year-old man last seen in Garland  believed to be a danger to himself  others  https://t.co/Wr0AYBrEN4 (Topic no: 0) <Sentiment: -0.03333333333333333>
+Horse meat ban praised by animal activists  but it’s only temporary   https://t.co/PzPCMvk07s | @nicolecobler (Topic no: 8) <Sentiment: 0.0>
+Protests of Stephon Clark shooting hit home for several Mavs: "These stories can't become a regular thing." |… https://t.co/IWPDgKl9NQ (Topic no: 5) <Sentiment: 0.0>
+New #Cowboys WR Allen Hurns (@A1hurns) switched his jersey number to honor Florida school shooting victims. https://t.co/irwQXMDlj8 (Topic no: 0) <Sentiment: 0.13636363636363635>
+We need to talk.  Jerry Jones hopes to meet with Dez Bryant before end of next week. #Cowboys | @DavidMooreDMN https://t.co/DrY0kqICDO (Topic no: 0) <Sentiment: 0.0>
+Security guard killed at Holiday Inn in Lake Highlands  https://t.co/Tkl2IVCUdn (Topic no: 3) <Sentiment: -0.2>
+Whatever your mom used to put in the bottom of your Easter basket  that consumer choice is now a lot more complicat… https://t.co/414PvxrpzL (Topic no: 0) <Sentiment: 0.5>
+Martin Luther King is alive today at the corner of MLK and Malcolm X in southern Dallas | @DMNopinion https://t.co/zKfdD0Ed7P (Topic no: 0) <Sentiment: 0.05>
+RT @ESefko: Mavericks react to protest in Sacramento and a strange scene with precious few fans in the building. https://t.co/NYB0s1orRz (Topic no: 0) <Sentiment: 0.08333333333333333>
+Find urban art  food and brews in Denver's RiNo neighborhood  https://t.co/abvOFyzwCy (Topic no: 0) <Sentiment: 0.0>
+How to make ma'amoul  an ancient Easter cookie from the Arab world https://t.co/RVUCc1wao5 (Topic no: 15) <Sentiment: 0.0>
+Watch: Police seeking Dallas package thief caught on video https://t.co/0BpwuHM3k2 (Topic no: 0) <Sentiment: 0.0>
+Dallas County narrowly passes $83M deal to sell old Parkland Hospital  https://t.co/5KIOC2hmKm (Topic no: 0) <Sentiment: -0.05>
+RT @clairezcardona: Reward offered in slaying of 19-year-old shot while driving in Far East Dallas https://t.co/9H0Nw27KHx (Topic no: 0) <Sentiment: 0.1>
+.@ESefko's top six NBA draft prospects  and how he says Dirk has continued to impress.   #MFFL https://t.co/Vb3jhAVwNn (Topic no: 13) <Sentiment: 0.5>
+Far Cry 5 could have make a lot of timely cultural statements with its story about a cult uprising in rural Montana… https://t.co/tRxFTsjnZg (Topic no: 6) <Sentiment: 0.06666666666666667>
+Reward offered in slaying of 19-year-old shot while driving in Far East Dallas https://t.co/f1j9wBjEja (Topic no: 0) <Sentiment: 0.1>
+Whether you prefer beer  wine or spirits  Dallas-Fort Worth has plenty of options to satisfy your thirst. https://t.co/nOSyAKbmH0 (Topic no: 0) <Sentiment: 0.3>
+Wrangler-wearing superstar George Strait defies show business stereotypes. That's part of what fans love most. https://t.co/vgkaonCbAp (Topic no: 1) <Sentiment: 0.5>
+'NXIVM' leader accused of keeping women slaves as part of cult appears in Texas court on sex trafficking charges https://t.co/oCEk9oz3Ui (Topic no: 0) <Sentiment: 0.0>
+Breathless is billed as "Buffy the Vampire Slayer but the villains are big pharma" https://t.co/D4OHU9ORKv (Topic no: 11) <Sentiment: 0.0>
+Update at 9:50 pm: Trenton Carroll has been found and is safe  police said. https://t.co/NgqdvUnobM (Topic no: 0) <Sentiment: 0.5>
+Update at 9:50 pm: Trenton Carroll has been found and is safe  police said. (Topic no: 0) <Sentiment: 0.5>
+For a stress-free Easter feast  skip the kitchen and dine out instead.  https://t.co/0vrQC5sjOu (Topic no: 0) <Sentiment: 0.4>
 Isle of Dogs showcases Anderson's appreciation for and knowledge of Japanese film  from the symmetrical  eye-level… https://t.co/1RBqTCyViy
 Wed Mar 28 02:37:19 +0000 2018,dallasnews,Have you been keeping up with @BlackLightning on @TheCW? Here's why #TV critic @DawnBurkes thinks you should watch. https://t.co/j4MEf81M15
 Wed Mar 28 02:26:38 +0000 2018,dallasnews,RT @sblaskovich: Changes coming to McKinney Ave in #UptownDallas: Adios to Urban Taco. Hello to a new Velvet Taco @VTDallas. https://t.co/6…
@@ -100,43 +98,122 @@ Wed Mar 28 00:45:13 +0000 2018,dallasnews,Bolt for TV booth? 📺  Why the Cowbo
 Wed Mar 28 00:36:23 +0000 2018,dallasnews,Should the NFL bet on Johnny Football again? Manziel  Mike Evans made their case at A&amp;M Pro Day. | @Ben_Baby… https://t.co/CUtOM2DNni
 Wed Mar 28 00:25:33 +0000 2018,dallasnews,New Cowboys WR Allen Hurns (@A1hurns) switched his jersey number to honor Florida school shooting victims. https://t.co/irwQXMDlj8
 Wed Mar 28 00:14:44 +0000 2018,dallasnews,Plano's Legacy area is on track to match downtown Dallas in office employment https://t.co/ds56BUGlJs
-Wed Mar 28 00:03:55 +0000 2018,dallasnews,We need to talk."  Jerry Jones hopes to meet with Dez Bryant before end of next week. | @DavidMooreDMN https://t.co/DrY0kqICDO (Topic no: 12) <Sentiment: positive>
-Man at-large after shooting at Texas officer during traffic stop  police say https://t.co/t90DwJVPUr (Topic no: 0) <Sentiment: positive>
-Suspect in killing  attacks on elderly Dallas-area women may have other victims  police say https://t.co/GQudEgjeev (Topic no: 9) <Sentiment: negative>
-If you had hopes of being on (or seeing) American @ninjawarrior in Dallas  bad news: You *just* missed it.  https://t.co/kSnKJrMTZw (Topic no: 0) <Sentiment: negative>
-Dallas' Joppa neighborhood doesn't deserve more abuse | @DMNOpinion https://t.co/ZfzHuZA0cp (Topic no: 0) <Sentiment: positive>
-A transit oriented retail center is coming to Farmers Branch https://t.co/LY7TfdD25x (Topic no: 9) <Sentiment: negative>
-The threat of a standing army against a state is "a relic of the 18th century " writes former Supreme Court justice… https://t.co/cmgH5TlRba (Topic no: 0) <Sentiment: neutral>
-5 great kosher wines you can find in Dallas for Passover https://t.co/JDclILWMa2 (Topic no: 12) <Sentiment: positive>
-Arlington police looking for missing man with intellectual disability https://t.co/VlN4HOu2Fx https://t.co/t6OSldCASm (Topic no: 0) <Sentiment: positive>
-From Nita Thomason: Yes  religion belongs in public schools  but worship does not https://t.co/GGb1lf2eQl (Topic no: 3) <Sentiment: neutral>
-Terrell student detained after bringing weapon in backpack https://t.co/iAJz26sPKo (Topic no: 8) <Sentiment: neutral>
-Texas police bust drug  counterfeiting ring  recover 90-year-old's stolen trike https://t.co/pLUbx8EbmE (Topic no: 12) <Sentiment: positive>
-The pro- and anti-Confederate statue camps should join forces in Dallas to make a bigger memorial | @DMNOpinion https://t.co/wHifUqvuZ8 (Topic no: 7) <Sentiment: neutral>
-Sutherland Springs unveils new church plans  with shooting site standing for now as memorial https://t.co/Wpxl9e143q (Topic no: 7) <Sentiment: positive>
-4 reasons that adding 'context' to a Confederate statue is silly | @DMNOpinion https://t.co/uANA0rgD64 (Topic no: 0) <Sentiment: negative>
-89 arrested  including 33 in North Texas  in immigration operation  https://t.co/m0GqxrGv5D (Topic no: 12) <Sentiment: neutral>
-You won't see this flying fee increase. And @AmericanAir and @SouthwestAir are pumped about that https://t.co/zozR8Hejom (Topic no: 6) <Sentiment: neutral>
-Indie graphic novels or superhero blockbusters? Mariko Tamaki does it all https://t.co/LHYmrw8MrF (Topic no: 0) <Sentiment: neutral>
-Dallas jury deems 'sophisticated international fraudster' guilty of a cyberattack on a news website https://t.co/N66PBUzUqg (Topic no: 0) <Sentiment: neutral>
-#Breaking: Instructor at Mormon church in McKinney sexually assaulted children for years  police say https://t.co/sLS7x6jvwz (Topic no: 0) <Sentiment: positive>
-Reminders of centuries past emerge along Mexico City's near-500-year-old streets https://t.co/GzJIyJYNMZ (Topic no: 0) <Sentiment: negative>
-Dallas-area baker makes his own version of marshmallow 'peeps' that he calls Chirps https://t.co/7YzyRgqHpD (Topic no: 14) <Sentiment: positive>
-Texts show concern over Mansfield teacher who sought LGBTQ-inclusive language https://t.co/vW5LVbfuip (Topic no: 0) <Sentiment: neutral>
-RT @SportsDayDFW: She beat cancer  domestic abuse and racial barriers  but can she save the Dallas Mavericks?  Story by @ESefko-@krobijake:… (Topic no: 0) <Sentiment: neutral>
-Dallas entrepreneur surprised to see @TomiLahren showing off her gun-friendly leggings on Instagram https://t.co/QJ2gRjKfQX (Topic no: 0) <Sentiment: positive>
-RT @dallasnews: Who's gotten their daily nutrition already? ✋😅 https://t.co/WdthmE1JEU (Topic no: 0) <Sentiment: neutral>
-Will Texas invest in schools or lose its competitive corporate edge? https://t.co/yal1s6P40G (Topic no: 0) <Sentiment: neutral>
-Kindergartners in this Texas school district will have to use clear backpacks to ensure they don't bring guns… https://t.co/dE1c8uZ83S (Topic no: 0) <Sentiment: positive>
-There's a couple trying to lure Texas children into a van with promises of candy and a box of puppies  police say https://t.co/2wqfFuODpa (Topic no: 1) <Sentiment: neutral>
-RT @tombenning: In the big spending bill passed last week  Congress didn't increase the cap on the flying fee known as the passenger facili… (Topic no: 0) <Sentiment: neutral>
-RT @cscudder: Bluebonnets are popping up all over #Texas  and we have everything you need to know:  🌱 The latest forecast 📍 Where to find t… (Topic no: 0) <Sentiment: positive>
-10 parenting tips from Cecile Richards  head of #PlannedParenthood and mother of 3 https://t.co/qD5ghIdZDI (Topic no: 11) <Sentiment: neutral>
-RT @disolis: No more Dora the Explorer backpacks. Kindergartners in this Texas school district will have to use clear backpacks to ensure t… (Topic no: 0) <Sentiment: negative>
-Dallas home prices up 6.9 percent  edging ahead of U.S. increase https://t.co/Cj7BU5k4Aq (Topic no: 0) <Sentiment: neutral>
-Vira Insight LLC has taken 329 060 square feet of space at the Majestic Airport Center DFW business park https://t.co/KSYjhqj4XF (Topic no: 4) <Sentiment: negative>
-United Airlines gives $10 000 travel voucher to a ‘bumped’ passenger on her way to an Austin bachelorette party https://t.co/FSJBKezVOK (Topic no: 11) <Sentiment: neutral>
-I support gun restrictions  but repealing the 2nd Amendment is wrong | @DMNOpinion https://t.co/Gagg4Qd1MS (Topic no: 0) <Sentiment: negative>
-RT @esouder: Taking a meeting with @janefonda and @tedturnerIII with Munchkin glitter on her hands and other tales of working motherhood  h… (Topic no: 4) <Sentiment: negative>
-RT @RobertWilonsky: Four years ago the Dallas City Council created a TIF district meant to funnel some money from the long-awaited Valley V… (Topic no: 0) <Sentiment: negative>
-RT @BrittonPeele: As a Christian who enjoys seeing pop culture takes on religion  I had some high hopes for the cult-centric plot of Far Cr… (Topic no: 0) <Sentiment: positive>
+Wed Mar 28 00:03:55 +0000 2018,dallasnews,We need to talk."  Jerry Jones hopes to meet with Dez Bryant before end of next week. | @DavidMooreDMN https://t.co/DrY0kqICDO (Topic no: 12) <Sentiment: 0.11970298220298219>
+Man at-large after shooting at Texas officer during traffic stop  police say https://t.co/t90DwJVPUr (Topic no: 0) <Sentiment: 0.21428571428571427>
+Suspect in killing  attacks on elderly Dallas-area women may have other victims  police say https://t.co/GQudEgjeev (Topic no: 9) <Sentiment: -0.125>
+If you had hopes of being on (or seeing) American @ninjawarrior in Dallas  bad news: You *just* missed it.  https://t.co/kSnKJrMTZw (Topic no: 0) <Sentiment: -0.3499999999999999>
+Dallas' Joppa neighborhood doesn't deserve more abuse | @DMNOpinion https://t.co/ZfzHuZA0cp (Topic no: 0) <Sentiment: 0.5>
+A transit oriented retail center is coming to Farmers Branch https://t.co/LY7TfdD25x (Topic no: 9) <Sentiment: -0.1>
+The threat of a standing army against a state is "a relic of the 18th century " writes former Supreme Court justice… https://t.co/cmgH5TlRba (Topic no: 0) <Sentiment: 0.0>
+5 great kosher wines you can find in Dallas for Passover https://t.co/JDclILWMa2 (Topic no: 12) <Sentiment: 0.8>
+Arlington police looking for missing man with intellectual disability https://t.co/VlN4HOu2Fx https://t.co/t6OSldCASm (Topic no: 0) <Sentiment: 0.04999999999999999>
+From Nita Thomason: Yes  religion belongs in public schools  but worship does not https://t.co/GGb1lf2eQl (Topic no: 3) <Sentiment: 0.0>
+Terrell student detained after bringing weapon in backpack https://t.co/iAJz26sPKo (Topic no: 8) <Sentiment: 0.0>
+Texas police bust drug  counterfeiting ring  recover 90-year-old's stolen trike https://t.co/pLUbx8EbmE (Topic no: 12) <Sentiment: 0.1>
+The pro- and anti-Confederate statue camps should join forces in Dallas to make a bigger memorial | @DMNOpinion https://t.co/wHifUqvuZ8 (Topic no: 7) <Sentiment: 0.0>
+Sutherland Springs unveils new church plans  with shooting site standing for now as memorial https://t.co/Wpxl9e143q (Topic no: 7) <Sentiment: 0.13636363636363635>
+4 reasons that adding 'context' to a Confederate statue is silly | @DMNOpinion https://t.co/uANA0rgD64 (Topic no: 0) <Sentiment: -0.5>
+89 arrested  including 33 in North Texas  in immigration operation  https://t.co/m0GqxrGv5D (Topic no: 12) <Sentiment: 0.0>
+You won't see this flying fee increase. And @AmericanAir and @SouthwestAir are pumped about that https://t.co/zozR8Hejom (Topic no: 6) <Sentiment: 0.0>
+Indie graphic novels or superhero blockbusters? Mariko Tamaki does it all https://t.co/LHYmrw8MrF (Topic no: 0) <Sentiment: 0.0>
+Dallas jury deems 'sophisticated international fraudster' guilty of a cyberattack on a news website https://t.co/N66PBUzUqg (Topic no: 0) <Sentiment: 0.0>
+#Breaking: Instructor at Mormon church in McKinney sexually assaulted children for years  police say https://t.co/sLS7x6jvwz (Topic no: 0) <Sentiment: 0.5>
+Reminders of centuries past emerge along Mexico City's near-500-year-old streets https://t.co/GzJIyJYNMZ (Topic no: 0) <Sentiment: -0.016666666666666663>
+Dallas-area baker makes his own version of marshmallow 'peeps' that he calls Chirps https://t.co/7YzyRgqHpD (Topic no: 14) <Sentiment: 0.6>
+Texts show concern over Mansfield teacher who sought LGBTQ-inclusive language https://t.co/vW5LVbfuip (Topic no: 0) <Sentiment: 0.0>
+RT @SportsDayDFW: She beat cancer  domestic abuse and racial barriers  but can she save the Dallas Mavericks?  Story by @ESefko-@krobijake:… (Topic no: 0) <Sentiment: 0.0>
+Dallas entrepreneur surprised to see @TomiLahren showing off her gun-friendly leggings on Instagram https://t.co/QJ2gRjKfQX (Topic no: 0) <Sentiment: 0.2375>
+RT @dallasnews: Who's gotten their daily nutrition already? ✋😅 https://t.co/WdthmE1JEU (Topic no: 0) <Sentiment: 0.0>
+Will Texas invest in schools or lose its competitive corporate edge? https://t.co/yal1s6P40G (Topic no: 0) <Sentiment: 0.0>
+Kindergartners in this Texas school district will have to use clear backpacks to ensure they don't bring guns… https://t.co/dE1c8uZ83S (Topic no: 0) <Sentiment: 0.10000000000000002>
+There's a couple trying to lure Texas children into a van with promises of candy and a box of puppies  police say https://t.co/2wqfFuODpa (Topic no: 1) <Sentiment: 0.0>
+RT @tombenning: In the big spending bill passed last week  Congress didn't increase the cap on the flying fee known as the passenger facili… (Topic no: 0) <Sentiment: 0.0>
+RT @cscudder: Bluebonnets are popping up all over #Texas  and we have everything you need to know:  🌱 The latest forecast 📍 Where to find t… (Topic no: 0) <Sentiment: 0.5>
+10 parenting tips from Cecile Richards  head of #PlannedParenthood and mother of 3 https://t.co/qD5ghIdZDI (Topic no: 11) <Sentiment: 0.0>
+RT @disolis: No more Dora the Explorer backpacks. Kindergartners in this Texas school district will have to use clear backpacks to ensure t… (Topic no: 0) <Sentiment: -0.07499999999999998>
+Dallas home prices up 6.9 percent  edging ahead of U.S. increase https://t.co/Cj7BU5k4Aq (Topic no: 0) <Sentiment: 0.0>
+Vira Insight LLC has taken 329 060 square feet of space at the Majestic Airport Center DFW business park https://t.co/KSYjhqj4XF (Topic no: 4) <Sentiment: -0.1>
+United Airlines gives $10 000 travel voucher to a ‘bumped’ passenger on her way to an Austin bachelorette party https://t.co/FSJBKezVOK (Topic no: 11) <Sentiment: 0.0>
+I support gun restrictions  but repealing the 2nd Amendment is wrong | @DMNOpinion https://t.co/Gagg4Qd1MS (Topic no: 0) <Sentiment: -0.25>
+RT @esouder: Taking a meeting with @janefonda and @tedturnerIII with Munchkin glitter on her hands and other tales of working motherhood  h… (Topic no: 4) <Sentiment: -0.125>
+RT @RobertWilonsky: Four years ago the Dallas City Council created a TIF district meant to funnel some money from the long-awaited Valley V… (Topic no: 0) <Sentiment: -0.05>
+RT @BrittonPeele: As a Christian who enjoys seeing pop culture takes on religion  I had some high hopes for the cult-centric plot of Far Cr… (Topic no: 0) <Sentiment: 0.065>
+Roseanne brings her quick wit back to TV tonight  and her show isn't the only classic from yesteryear that's lined… https://t.co/fBr2dbBwi4 (Topic no: 0) <Sentiment: 0.125>
+RT @claireballor: Very sad update: The pedestrian killed on SH 161 in Irving this morning was an 11-year-old boy. Police said they believe… (Topic no: 0) <Sentiment: -0.25000000000000006>
+RT @NaomiMartin: Parkland Hospital to be sold for $83M with new changes -- Comm. Elba Garcia says  "This is a great deal for the developer… (Topic no: 0) <Sentiment: 0.4681818181818182>
+How to support a @TrusteeSolis's baby's fight for life and so many other suffering Texas families #LivStrong… https://t.co/YP3rWkP8S4 (Topic no: 0) <Sentiment: 0.1875>
+Schlitterbahn co-owner arrested in Texas  charged with murder over boy's water slide decapitation https://t.co/Bj6v7nV19m (Topic no: 0) <Sentiment: 0.0>
+Texas man who says the devil urged him to kill a teen has been found unfit to stand trial https://t.co/KuCre0K3nR (Topic no: 0) <Sentiment: 0.0>
+After appearing in a television interview viewed by millions  Stormy Daniels spent her Monday night at a much more… https://t.co/L8NLXiSObp (Topic no: 0) <Sentiment: 0.2>
+Attorneys for Texas 'suitcase killer' make last-ditch appeal to stop execution https://t.co/vykFLkC2lI (Topic no: 0) <Sentiment: 0.0>
+RT @RobertTGarrett: Indian tech company Wipro to create 150 jobs in Plano  with 450 more likely  @GovAbbott &amp; company officials announce. O… (Topic no: 8) <Sentiment: 0.25>
+Ex-TCU QB Trevone Boykin's girlfriend says she 'woke up in a puddle of blood' after he broke her jaw https://t.co/W8NTyHw7pS (Topic no: 2) <Sentiment: 0.0>
+Watch: Dale Hansen wishes Parkland kids the best but warns 'money always wins' https://t.co/QpQ7SvTHyv #MarchForOurLives (Topic no: 0) <Sentiment: 0.65>
+RT @dmn_cowboys: THIS JUST IN...  https://t.co/kdxhG7iUfX (Topic no: 0) <Sentiment: 0.0>
+Who's gotten their daily nutrition already? ✋😅 https://t.co/WdthmE1JEU (Topic no: 0) <Sentiment: 0.0>
+Ask the right person  and you'll stoke decades of chatter about whether Deep Ellum is dead  really  this time. https://t.co/Gaix68mryW (Topic no: 9) <Sentiment: 0.07142857142857142>
+At age 56  Bon Jovi is still one of rock's most captivating front-men. https://t.co/H9fmiqfHiL (Topic no: 0) <Sentiment: 0.5>
+Brace yourself for flooding  possible severe weather in Dallas-Fort Worth https://t.co/QrvzJ1T7kW #dfwwx #txwx (Topic no: 0) <Sentiment: 0.15>
+.@Parkland Hospital in Dallas gets perfect score for LGBT healthcare | @lmcgaughy https://t.co/Ge1zyffw4r (Topic no: 0) <Sentiment: 1.0>
+RT @naheedrajwani: Dallas police's to-do list for 2018: Hire and retain more officers to help address 'drugs  gangs and guns' https://t.co/… (Topic no: 0) <Sentiment: 0.5>
+RT @melissa_repko: After closed session  AT&amp;T’s attorney will get to cross-examine Schlichting. The Dish exec has said the merger would jeo… (Topic no: 0) <Sentiment: -0.05>
+RT @katieleslienews: .@TedCruz praises controversial decision to add citizenship question to 2020 census https://t.co/7VD5oQdH9A (Topic no: 0) <Sentiment: 0.55>
+RT @mgranberry: ATTPAC customers outraged at $500 to $1 000 price increase  in the form of a mandatory donation https://t.co/KlCLohEi8i (Topic no: 4) <Sentiment: -0.9>
+Debilitating infection led Dallas-area woman to try to outsmart bacteria | @akuchment https://t.co/EGZX5PYo48 (Topic no: 0) <Sentiment: 0.0>
+RT @dmn_cowboys: Cowboys WR Allen Hurns says he chose his new jersey number in remembrance of Florida school shooting victims   https://t.c… (Topic no: 0) <Sentiment: 0.13636363636363635>
+6/6 We are still accepting more questions! Tell #CuriousTexas: What do you wonder about Texas and the people who ca… https://t.co/8ujESrmUgI (Topic no: 0) <Sentiment: 0.5>
+5/ We're excited that this is our 25th question to answer in our #CuriousTexas series! Some have been singular ques… https://t.co/64FOA8Alky (Topic no: 0) <Sentiment: 0.375>
+4/ More interesting though is what @danabranham learned from experts at @Parkland about the role confirmation bias… https://t.co/ZvSM5ZWaug (Topic no: 0) <Sentiment: 0.5>
+3/ Her investigation took her first to the standard sources. @danabranham called @DallasPD for information about th… https://t.co/F7d0xYnPxw (Topic no: 0) <Sentiment: 0.125>
+2/ When @danabranham started reporting this story she wanted to find out a few things: Can crashes really be happen… https://t.co/UaiYmWbUbN (Topic no: 0) <Sentiment: 0.0>
+1/ Are there really more car crashes at Dallas' Walnut Hill Lane?  That's what a Frisco couple asked #CuriousTexas.… https://t.co/FiD0OTqyE2 (Topic no: 0) <Sentiment: 0.5>
+Tune in to @TexasStandard at 10:22 a.m. today to hear more from @jeffmosier about U.S. oil production closing in on… https://t.co/utCbORM96b (Topic no: 0) <Sentiment: 0.5>
+Cybersecurity team will 'lie  cheat and steal' to protect Blue Cross patients' data | @sabriyarice https://t.co/WTgELxT5Hq (Topic no: 5) <Sentiment: 0.0>
+RT @JillCowan: ICYMI in today's @DMNBiz: An inside look at @ToyotaConnected  or  how an automaker plans to fight off Silicon Valley. https:… (Topic no: 0) <Sentiment: 0.0>
+Atmos has two holes to dig out of after these latest revelations about the deadly Dallas blast | @DMNOpinion https://t.co/6WIqVnJWlD (Topic no: 13) <Sentiment: 0.15>
+It might be a good idea for the Stars' decision-makers to listen to some of what the fans are saying.  @MikeHeika e… https://t.co/0deXBuWg0r (Topic no: 0) <Sentiment: 0.7>
+Missing 81-year-old man last seen at Fort Worth hospital  https://t.co/P4ganS7VgE https://t.co/170bRPdjJZ (Topic no: 0) <Sentiment: 0.049999999999999996>
+Weatherford ISD students said stranger tried to lure them into vehicle while they waited for bus https://t.co/zXJ6HnWe1d (Topic no: 13) <Sentiment: 0.0>
+The latest #TexasRangers rotation updates from @gfraley:  Bartolo Colon is back  Texas' Cole Hamels plan  and more. https://t.co/8ZsGLuNvO2 (Topic no: 0) <Sentiment: 0.3333333333333333>
+AT&amp;T’s shrinking satellite and cable business makes the Time Warner merger more urgent | @mitchschnurman https://t.co/Sv3iwGPF8q (Topic no: 0) <Sentiment: 0.5>
+'They made the biggest mistake ever today': UT-Arlington fires men's basketball coach Scott Cross | @DMN_George… https://t.co/emVZXIB0k0 (Topic no: 1) <Sentiment: 0.0>
+Pedestrian killed while crossing southbound State Highway 161 in Irving #dfwtraffic https://t.co/BGOtQXiWPB (Topic no: 0) <Sentiment: -0.2>
+RT @dmn_cowboys: Jason Garrett reveals his thoughts on Dez Bryant  which college pro day Cowboys are headed to https://t.co/V8jAjv71Gb (Topic no: 0) <Sentiment: 0.0>
+Before considering cutting Dez  the Cowboys must consider this scary reality: How good is Dak?  @TimCowlishaw elabo… https://t.co/aUCg1UX8ZG (Topic no: 0) <Sentiment: -0.1333333333333334>
+Dez Bryant's status with the Cowboys will go from unclear to obvious if Dallas does this one thing.  Via… https://t.co/FDYOcFIZpR (Topic no: 0) <Sentiment: 0.0>
+RT @esouder: Tip #4: Take your kids to @TexasWBB games https://t.co/KqaNSPHYYo (Topic no: 2) <Sentiment: 0.0>
+Meet the woman who will try to save the Dallas Mavericks | @ESefko https://t.co/wglsD0JRPb https://t.co/1orps2dwWm (Topic no: 0) <Sentiment: 0.0>
+We now know which chefs will be hosting events at food &amp; wine fest @SavorDallas. One is D-FW's biggest up-and-comin… https://t.co/pZH6kvLudq (Topic no: 0) <Sentiment: 0.0>
+Silver Alert: 74-year-old man with cognitive impairment last seen driving in Richardson https://t.co/pYmqT9Ciio (Topic no: 0) <Sentiment: 0.05>
+Love food and wine? Check out the chefs who will be involved in @SavorDallas this year. https://t.co/p1x4emlvS0 (Topic no: 0) <Sentiment: 0.5>
+Freezing a child's credit report isn't easy or free  but it's probably worth it https://t.co/AOUiyodQgH (Topic no: 0) <Sentiment: 0.37777777777777777>
+Power issues force SMU students to relocate from dorm  https://t.co/ISTAUUuamz (Topic no: 2) <Sentiment: 0.0>
+Debilitating infection led Dallas-area woman to try to outsmart bacteria https://t.co/EGZX5PYo48 (Topic no: 3) <Sentiment: 0.0>
+Houston investor buys Richardson office campus https://t.co/Zlv39QgENX (Topic no: 12) <Sentiment: 0.0>
+Ten women receive U.S. Secretary of State's International Women of Courage Award  https://t.co/XtZ4T6GNcs (Topic no: 0) <Sentiment: 0.0>
+Teen reportedly kidnapped at gunpoint outside Texas Sam's Club after thief mistakes him for another person https://t.co/Jg0sqzk6ou (Topic no: 0) <Sentiment: 0.0>
+Boy brandishing cellphone like a gun set off lockdown at Mesquite middle school  officials say https://t.co/pglj6enh7P (Topic no: 0) <Sentiment: 0.0>
+Dallas police's to-do list for 2018: Hire  retain more officers to help address 'drugs  gangs and guns' https://t.co/kONj7cWAHi (Topic no: 13) <Sentiment: 0.5>
+Losing DA candidate says voter fraud cost her Democratic primary win  sues winner  elections officials https://t.co/wx8DvrTkZV (Topic no: 2) <Sentiment: 0.6000000000000001>
+The Cowboys must consider this scary but necessary reality before negotiating with Dez Bryant. | @TimCowlishaw… https://t.co/PrchAq33tH (Topic no: 3) <Sentiment: -0.25>
+Just imagine how awesome Big 12 basketball could be next season  says @ChuckCarltonDMN. https://t.co/I3WZv5WCcX (Topic no: 15) <Sentiment: 0.3333333333333333>
+Meet the woman who will try to save the Dallas Mavericks. https://t.co/BCWDJeTrWd https://t.co/hUYmStlk9b (Topic no: 0) <Sentiment: 0.0>
+What the Cowboys are thinking with Dez Bryant’s contract  Terrance Williams’ injury and signing Allen Hurns.  Via… https://t.co/8bQvHHJdHF (Topic no: 14) <Sentiment: 0.0>
+RT @dmn_stars: .@MikeHeika says it might be a good idea for the Stars' decision-makers to listen to some of what the fans are saying right… (Topic no: 0) <Sentiment: 0.4928571428571428>
+#Breaking: SMU's Pi Kappa Alpha fraternity suspended after hazing investigation https://t.co/tf3GpdsXi3 (Topic no: 0) <Sentiment: 0.0>
+Don't miss these 2 ridiculous new foods at Texas @Rangers games  says @evan_p_grant and @sblaskovich https://t.co/akx6RBvEux (Topic no: 0) <Sentiment: -0.09848484848484848>
+Allen Hurns: Why I chose the Cowboys even though other teams offered more money. 💰 https://t.co/28gdtwHZ9S (Topic no: 0) <Sentiment: 0.1875>
+Odell Beckham Jr. to the Cowboys is exactly the type of splash Jerry Jones likes to make.  #CowboysNation |… https://t.co/5PJDqtfUoz (Topic no: 0) <Sentiment: 0.25>
+Unarmed man fatally shot outside Fort Worth church was 'angry and grimacing ' witness says https://t.co/898wwVe7A4 (Topic no: 0) <Sentiment: -0.06666666666666667>
+RT @Evan_P_Grant: Countdown to opening day is T-3. Here is all our Rangers season preview material. Lotta heavy lifting by @gfraley &amp; me. O… (Topic no: 0) <Sentiment: -0.2>
+Schlitterbahn co-owner arrested in South Texas on charges related to boy's waterslide decapitation https://t.co/8NVzCKE6fA (Topic no: 7) <Sentiment: 0.0>
+88-year-old man last seen walking in Far East Dallas may need help  police say https://t.co/RV6uKiwJlW https://t.co/oWtShqGNTX (Topic no: 2) <Sentiment: 0.06666666666666667>
+Dallas City Council member steaming over appointee's labor ties  residency issues https://t.co/7ZyFfXTBBn (Topic no: 0) <Sentiment: 0.0>
+City Council rejects $800k for ESPN to host Heart of Dallas bowl game at Cotton Bowl https://t.co/y4jJ5kLUkj (Topic no: 0) <Sentiment: -0.4>
+Frisco couple arrested at Massachusetts hotel after police find cache of high-capacity guns  bump stock https://t.co/wEwEpIQPyy (Topic no: 0) <Sentiment: 0.16>
+RT @Ben_Baby: New | UT-Arlington fires men's basketball coach Scott Cross https://t.co/1dx3xHQavz (Topic no: 5) <Sentiment: 0.06818181818181818>
+RT @NMFreed: On @Reddit: It's bluebonnet time in Texas. Here's everything you need to know. https://t.co/ksoRNWWpgI (Topic no: 0) <Sentiment: 0.0>
+@Pluckers @Whataburger 👀 (Topic no: 0) <Sentiment: 0.0>
+Plano's Legacy area is on track to match downtown Dallas in office employment https://t.co/ds56BUGlJs (Topic no: 0) <Sentiment: 0.0>
+Real Texans join our Texana group on Facebook. https://t.co/nfHwCdSfU3 (Topic no: 0) <Sentiment: 0.2>
+Real Texans know the truth. 💯😗👌 https://t.co/QqdALicHsK (Topic no: 5) <Sentiment: 0.2>
