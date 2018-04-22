@@ -1,0 +1,81 @@
+[nltk_data] Downloading package stopwords to /home/piyush/nltk_data...
+[nltk_data]   Package stopwords is already up-to-date!
+output.csv
+Selecting 179 files from data/twitter...
+-----------------
+Topic 0: amp allen far hurns at good today story next
+Topic 1: wed say bryant season already state here danabranham stormy
+Topic 2: school cross worth easter food mavericks council shot years
+Topic 3: police man one pro latest last may really jerry
+Topic 4: texas make dez rangers arlington know driving curioustexas person
+Topic 5: dmnopinion arrested love back coach tv esouder clear up
+Topic 6: co women mlk business decision district kindergartners create oil
+Topic 7: mar cowboys seen made esefko suspect dmn_cowboys schools wine
+Topic 8: said last meet hospital east irving save davidmooredmn legacy
+Topic 9: 28 0000 missing basketball victims jersey men tech big
+Topic 10: dallas area city fans fort guns woman boy get
+Topic 11: co says find night much yes daniels week blue
+Topic 12: 2018 dallasnews says children we to parkland increase threat
+Topic 13: year old 01 00 cowboys 02 14 33 who
+Topic 14: co time evan_p_grant hopes kids killed cult mckinney listen
+Topic 15: co shooting church officials court free martin money plans
+User specified custom stopwords: 'http', 'https', 'rt', 'url', 'www', 'cite', 'immediate', 'release', 'remarks', 'weekly', 'address', 'president', 'obama', 'white', 'house', 'office', 'press', 'secretary', 'applause', 'united', 'states', 'government', 'new', 'york', 'end', 'edt' ...
+Evaluating vocabulary...
+Found 547 terms in 179 files...
+writing topic model results in data/twitter/results/clf_results_newLDA_model.csv...
+Topic 0: court, martin luther, kindergartners texas school district, parkland hospital, missing
+Topic 1: hopes meet dez, beltre, esefko, business, known
+Topic 2: court, outsmart bacteria, far east, cross, changes
+Topic 3: offered slaying shot, parkland, millions stormy, controversial, gfraley
+Topic 4: court, men, council, coach scott cross, meeting
+Topic 5: pro, chuckcarltondmn, fatally shot, district use clear backpacks, downtown dallas employment
+Topic 6: international, deadly, infection, real texans, dallas city
+Topic 7: appearing television interview, dallas police list, carroll, price, pro day
+Topic 8: meet woman, bryant, east dallas, like, plans
+Topic 9: basketball coach scott, area track, listen fans, retain, home
+Topic 10: adrian, curioustexas, investigation, gangs, hopes meet dez bryant
+Topic 11: dallas police, jones, man, cowboys, hopes
+Topic 12: make, infection led woman try, area track, merger, bring
+Topic 13: religion, legacy area track match, adrian beltre, minutes, abuse
+Topic 14: court, debilitating infection led, irving, match downtown dallas, race
+Topic 15: dallas police, breaking, area track, gangs guns, carroll safe police said
+RT @tombenning: Channeling his inner Fred Astaire: 6 times George W. Bush boogied https://t.co/VR3uxyjgbC https://t.co/4nBlZ2N93T (top topic: 0)
+Texas Democrats call on Ken Paxton to investigate Cambridge Analytica https://t.co/tMXup0mB8e (top topic: 12)
+DWI suspect crashes into Carrollton house  narrowly missing sleeping children https://t.co/V0znkYFZo4 (top topic: 0)
+#ICYMI Stormy Daniels let loose in  of all places  Terrell  Texas after her highly-anticipated '60 Minutes' intervi… https://t.co/xmFGclifRX (top topic: 0)
+RT @michaelflorek: Trinity Christian - Addison hires Pro Football Hall of Famer Mike Singletary as head coach https://t.co/octewFMRc3 (top topic: 0)
+The song MLK requested minutes before his assassination comforted millions | @DMNOpinion https://t.co/vPXQXhl8fr (top topic: 0)
+The Mormon church in McKinney where children were sexually assaulted for years has said in a statement:  "Children… https://t.co/1K2YMjbPEd (top topic: 0)
+Tarrant County will get its first Alamo Drafthouse in 2019. Who's excited?! https://t.co/ww5GTQUnP9 (top topic: 0)
+Wes Anderson made an animated film about dogs? Oh yes  and it's so typical of his style. Squint a little and the ma… https://t.co/opmQisRIGC (top topic: 2)
+Gov. Greg Abbott has 'historic' meeting with Indian prime minister https://t.co/F4C0neuZr2 (top topic: 0)
+Easter brunch without having to wash a sink full of dishes? Yes  please! Most restaurants require a reservation for… https://t.co/DIEaNeGNkJ (top topic: 0)
+🏫 @DallasSchools steps up as Texas kicks far too many of its youngest kids out of class | @DMNOpinion https://t.co/hM54cHlKqH (top topic: 0)
+No word yet on if the "I love tacos so much" graffiti will stay. Now seems like a good time to snap a pic. https://t.co/VWzLrHSDrd (top topic: 2)
+Murder suspect arrested in deadly double shooting at Red Bird motel https://t.co/km9YBpU7LH (top topic: 0)
+RT @medenix: Should Lillian Salerno lose the love and go negative in her congressional race against Colin Allred? https://t.co/pcmwtpOkRr (top topic: 3)
+A top Texas butcher shares how to make proper #beefjerky at home https://t.co/wlSoNbrkEW #jerky #jerkylove (top topic: 0)
+Federal agents arrested 89 people  including more than two dozen in North Texas  in an operation that targeted unau… https://t.co/eS6FShvh4C (top topic: 0)
+A false alarm over a gas leak triggerred an evacuation at Travis Middle School in Irving https://t.co/2neTDuQbKp (top topic: 0)
+📺👀 Check out aviation writer @Conor_Shine as he discusses this story on @NBCDFW in a few moments and its impact on… https://t.co/pa00RgqiQ9 (top topic: 0)
+Keys to making Dallas a more inclusive city? Don't forget Southern hospitality and barbecue. #DallasIdeas18 https://t.co/UhLfl6t3gi (top topic: 0)
+MISSING: Elderly man with one shoe last seen in South Dallas may be a danger to himself https://t.co/XUTrmVM0BN (top topic: 0)
+Let it be known: All jelly beans are not created equal. The @GuideLive staff ate their way through several brands s… https://t.co/sA2LqFw5vA (top topic: 0)
+RT @SportsDayDFW: 🚨 Our Rangers newsletter is back! (with a new name) 🚨  Make sure you're signed up before our special season opener editio… (top topic: 2)
+A San Antonio father has been arrested after police said he fatally shot his 14-year-old son in bed https://t.co/bikL3lIa4D (top topic: 0)
+Another big Texas ranch has hit the market - this one southeast of Dallas https://t.co/r2oGOmsqqB (top topic: 10)
+The Texas inmate known as the "suitcase killer" was executed Tuesday  after his attorneys had made a last-ditch app… https://t.co/kkORERTUXF (top topic: 0)
+@Plano_Schools to bring school resource officers back to its middle schools https://t.co/aqzgGM3KMo | @vlwigg (top topic: 0)
+Did you catch the revival of #Roseanne last night? https://t.co/Wy202pXtge (top topic: 0)
+We must resurrect the true  radical legacy of Martin Luther King | @DMNOpinion https://t.co/Tdu3Cj6uqK (top topic: 9)
+Sabre CEO says layoffs were tough  but necessary to get the tech firm focused on future https://t.co/58ibQcvZJa (top topic: 11)
+After appearing in a television interview viewed by millions  Stormy Daniels spent her Monday night at a much more… https://t.co/WuFHvG1Hco (top topic: 0)
+Update: Lockdown lifted after police found no credible threat to the campus https://t.co/WWwk7JaG1U (top topic: 4)
+Dallas oil producer's $8 billion sale price could spark Permian Basin 'arms race' https://t.co/xtB85DQlC3 #stocks (top topic: 0)
+Think Rangers should add more free agent pieces (like a closer)? Adrian Beltre's right there with you.… https://t.co/mTzkvCPUfs (top topic: 5)
+After having fired Scott Cross  pressure on the next UTA basketball coach is already building | @ChuckCarltonDMN https://t.co/YvRNOh7lt7 (top topic: 1)
+RT @claireballor: Arlington HS is on lockdown after a suspicious person was reported in the area. Police siad there is no threat inside the… (top topic: 5)
+@DallasPD searching for missing 33-year-old man last seen in Garland  believed to be a danger to himself  others  https://t.co/Wr0AYBrEN4 (top topic: 15)
+Horse meat ban praised by animal activists  but it’s only temporary   https://t.co/PzPCMvk07s | @nicolecobler (top topic: 0)
+Protests of Stephon Clark shooting hit home for several Mavs: "These stories can't become a regular thing." |… https://t.co/IWPDgKl9NQ (top topic: 0)
+New #Cowboys WR Allen Hurns (@A1hurns) switched his jersey number to honor Florida school shooting victims. https://t.co/irwQXMDlj8 (top topic: 10)
